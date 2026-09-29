@@ -14,7 +14,7 @@ Segue o prompt utilizado para a geração do roteiro que pode ser usado para a c
 
 ## 🚀 Resultados
 O resultado foi uma imagem do roteiro, com os tempos, textos para revisão que após deve ser utilizada como prompt da ferramenta de geração de vídeo.
-Link para roteiro: roteiro.png
+Link para roteiro: [roteiro.png](https://github.com/dallenetto/lab-natty-or-not/blob/809099ca33e2173154c8222d4cdc1f204742e0ad/exemplos/roteiro.png)
 
 
 ## 💭 Reflexão (Opcional)
