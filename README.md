@@ -14,6 +14,8 @@ Segue o prompt utilizado para a geração do roteiro que pode ser usado para a c
 
 ## 🚀 Resultados
 O resultado foi uma imagem do roteiro, com os tempos, textos para revisão que após deve ser utilizada como prompt da ferramenta de geração de vídeo.
+Link para roteiro: roteiro.png
+
 
 ## 💭 Reflexão (Opcional)
 O maior desafio foi gerar o prompt correto para que a imagem e vídeo saissem conforme o esperado.
